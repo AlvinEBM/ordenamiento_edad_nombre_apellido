@@ -1,0 +1,2 @@
+desarrollaremos un ejemplo donde ingresamos los nombres, apellido, edad y entretenimiento de las personas , introducido por teclado, y nos mostrara 
+segun los criterios que ocupemos
